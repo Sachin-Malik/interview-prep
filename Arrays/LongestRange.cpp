@@ -2,9 +2,6 @@
 // for arr[]={1,11,3,0,15,5,2,4,10,7,12,6}
 // ANS would be => [0,7]
 
-
-
-
 #include <iostream>
 #include <map>
 #include <vector>
