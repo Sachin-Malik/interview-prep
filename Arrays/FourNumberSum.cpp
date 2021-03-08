@@ -17,6 +17,7 @@ int main()
 
         vector<vector<int> > res;
         vector<int> temp;
+
         int count=0;
 
         unordered_map<int,vector<vector<int> > > umap;

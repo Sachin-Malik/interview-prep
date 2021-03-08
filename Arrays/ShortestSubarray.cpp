@@ -38,6 +38,7 @@ int main()
                 if(vtr[i]>=leftMin)
                 {
                         a=i;
+
                         break;
                 }
         }
